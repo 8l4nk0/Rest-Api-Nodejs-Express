@@ -1,0 +1,5 @@
+express serve per gestire le richieste/interazioni web
+
+body-parser serve per fare parsing del body delle richieste API
+
+nodemon serve per far restartare il server ogni volta che salvo il file principale dell'API
