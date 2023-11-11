@@ -1,5 +1,5 @@
-express serve per gestire le richieste/interazioni web
+express serve per gestire le request/response 
 
-body-parser serve per fare parsing del body delle richieste API
+body-parser serve per fare parsing del body delle richieste API altrimenti i metodi di express non riuscirebbero a leggere le request
 
-nodemon serve per far restartare il server ogni volta che salvo il file principale dell'API
+nodemon serve per far restartare il server ogni volta che salvo il file principale dell'API, ossia index.js
